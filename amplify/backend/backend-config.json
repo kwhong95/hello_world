@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "helloworld4f973e66": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
